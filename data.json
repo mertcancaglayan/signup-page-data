@@ -1,0 +1,6 @@
+usersdata = {
+    name: { firstName: 'John', lastName: 'Doe' },
+    contact: { phone: '1234567890', email: 'john.doe@example.com' },
+    personal: { gender: 'Male', birthdate: '1990-01-01' },
+    username: { username: 'john_doe', password: 'securePassword' }
+}
